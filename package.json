@@ -67,7 +67,7 @@
     "react-router-dom": "^6.5.0",
     "redoc": "^2.0.0-rc.75",
     "rimraf": "^3.0.2",
-    "terser-webpack-plugin": "^5.3.3",
+    "terser-webpack-plugin": "^5.3.11",
     "usehooks-ts": "^2.6.0",
     "webpack": "^5.94.0",
     "webpack-cli": "^5.0.1",
