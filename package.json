@@ -27,7 +27,7 @@
     "jsonfile": "^6.1.0",
     "kyukou-api1": "github:qdai/kyukou-api#v5.2.1",
     "kyukou-scraper-kyudai1": "github:qdai/kyukou-scraper-kyudai#v5.0.1",
-    "mongoose": "^6.11.3",
+    "mongoose": "^8.9.1",
     "morgan": "^1.10.0",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
