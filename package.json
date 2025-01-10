@@ -22,7 +22,7 @@
     "glob": "^8.0.1",
     "helmet": "^5.1.1",
     "http-errors": "^2.0.0",
-    "ical-generator": "^3.6.0",
+    "ical-generator": "^8.1.0",
     "js-yaml": "^4.1.0",
     "jsonfile": "^6.1.0",
     "kyukou-api1": "github:qdai/kyukou-api#v5.2.1",
