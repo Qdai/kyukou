@@ -19,7 +19,7 @@
     "express-enforces-ssl": "^1.1.0",
     "express-promise-router": "^4.1.1",
     "express-session": "^1.18.1",
-    "glob": "^8.0.1",
+    "glob": "^11.0.1",
     "helmet": "^5.1.1",
     "http-errors": "^2.0.0",
     "ical-generator": "^3.6.0",
